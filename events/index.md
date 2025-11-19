@@ -1,9 +1,6 @@
 # Upcoming Events
 
-**2025-10-08** — SUDS Founding meeting.  
-Join us at 17:30 for the founding of the developer society! Members will get a
-chance to meet each other, learn more about the society, and elect those who
-will hold leadership positions in the society in 2026.
+We're on vacation :) But 2026 will be a blast!
 
 # Events that are still compiling:
 
@@ -58,3 +55,9 @@ to whom we are very grateful. Participants ranked in the following order:
 2. Katlego Tsotetsi, Scelo Siyabonga Nkosi, Thapelo Moloantoa
 3. Pontsho Magane
 4. Isaiah Joshua Daries
+
+**2025-10-08** — SUDS Founding meeting.  
+Join us at 17:30 for the founding of the developer society! Members will get a
+chance to meet each other, learn more about the society, and elect those who
+will hold leadership positions in the society in 2026.
+
